@@ -33,29 +33,20 @@ I’m currently open to **freelance work**, **small dev jobs**, and **learning-b
 ## 🛠 Skills & Technologies
 
 ### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwind-css&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/GSAP-111111?style=flat&logo=greensock&logoColor=purple"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap&theme=dark" />
 </p>
 
 ### 🧠 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=purple"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
 ### 🌐 CMS & Tools
-<p>
-  <img src="https://img.shields.io/badge/WordPress-111111?style=flat&logo=wordpress&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visual-studio-code&logoColor=purple"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode&theme=dark" />
 </p>
+
 
 ---
 
