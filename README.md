@@ -62,9 +62,7 @@ I’m currently open to **freelance work**, **small dev jobs**, and **learning-b
 *(More projects coming soon)*
 
 ### 🔹 Project Name
-Short description of what the project does.  
-**Tech:** React, GSAP, Node.js  
-🔗 Live Demo | 📂 Repository
+*coming soon*
 
 ---
 
@@ -80,7 +78,7 @@ I’m available for:
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **your.email@example.com**
+- 📧 Email: keshav30072005@gmail.com
 - 💼 LinkedIn: *(add later)*
 - 🌐 Portfolio: *Coming soon*
 
