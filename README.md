@@ -1,96 +1,101 @@
-<div align="center">
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Keshav Sharma 👋</h1>
+<h3 align="center">Beginner Full Stack Web Developer | Open for Freelance & Small Projects</h3>
 
-# 👋 Keshav Sharma  
-### Full Stack Web Developer (MERN)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keshavSharma-30/Keshav/main/10026-removebg-preview.png" width="160" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;Open+for+Freelance+%26+Internships)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Available-Freelance-success?style=flat-square" />
+</p>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a **beginner full-stack web developer** focused on building **clean, responsive, and scalable web applications**.  
-Currently learning and working with the **MERN stack**, while building real-world projects to improve my skills.
-
-- 🌱 Learning: React, Node.js, MongoDB  
-- 🎯 Goal: Freelance work & software development internships  
-- 💡 Strong interest in practical, hands-on development  
-
----     
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock)
-
-### Backend & CMS
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express)
-![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV2cHcxOGY3Y2Q2dGg4c3c3aHgyb2d3M3d4bXR4eGx4c3JzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="180" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🧑‍💻 About Me
 
-### 🌐 Portfolio Website  
-**Tech:** HTML, CSS, JavaScript  
-- Fully responsive personal portfolio  
-- Clean UI and modern layout  
+I’m a **passionate beginner full-stack web developer** who enjoys building clean, responsive, and user-friendly web applications.
 
-### 📝 Todo Application  
-**Tech:** React  
-- CRUD operations  
-- State management using hooks (coming soon)
+I focus on:
+- Writing **simple & readable code**
+- Learning through **real-world projects**
+- Creating smooth **animations & UI experiences**
 
-### 🔐 Authentication System *(In Progress)*  
-**Tech:** Node.js, Express, MongoDB  
-- User login & signup  
-- Secure authentication flow  (coming soon)
-
-➡️ More projects coming as I continue learning and improving.
+I’m currently open to **freelance work**, **small dev jobs**, and **learning-based collaborations**.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Skills & Technologies
 
-<div align="center">
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwind-css&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/GSAP-111111?style=flat&logo=greensock&logoColor=purple"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=keshavSharma-30&show_icons=true&theme=github_dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavSharma-30&layout=compact&theme=github_dark)
+### 🧠 Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=purple"/>
+</p>
 
-</div>
+### 🌐 CMS & Tools
+<p>
+  <img src="https://img.shields.io/badge/WordPress-111111?style=flat&logo=wordpress&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visual-studio-code&logoColor=purple"/>
+</p>
 
 ---
 
-## 🎯 What I’m Looking For
-
-- 💼 Freelance Web Development Projects  
-- 🎓 Software Development Internships  
-- 👨‍💻 Junior Developer Roles  
-
-I am eager to learn, contribute, and grow in a professional environment.
+## 🚀 What I'm Working On
+- Full-stack practice projects  
+- WordPress websites & customization  
+- Smooth animations using **GSAP**  
+- Improving backend logic & APIs  
 
 ---
 
-## 📬 Contact
+## 📂 Projects
+*(More projects coming soon)*
 
-- 📧 Email: **your-email@gmail.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**  
+### 🔹 Project Name
+Short description of what the project does.  
+**Tech:** React, GSAP, Node.js  
+🔗 Live Demo | 📂 Repository
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to check out my repositories!*
+## 💼 Open for Work
+I’m available for:
+- Freelance web development
+- WordPress websites
+- Small business & landing pages
+- Bug fixes & UI improvements
+
+💬 Let’s build something together!
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **your.email@example.com**
+- 💼 LinkedIn: *(add later)*
+- 🌐 Portfolio: *Coming soon*
+
+---
+
+<p align="center">
+  <i>Learning every day • Building step by step 🐱💜</i>
+</p>
+
