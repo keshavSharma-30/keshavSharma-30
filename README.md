@@ -3,7 +3,7 @@
 <h3 align="center">Beginner Full Stack Web Developer | Open for Freelance & Small Projects</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keshavSharma-30/Keshav/main/10026-removebg-preview.png" width="160" />
+  <img src="https://raw.githubusercontent.com/mtbcbgz/Keshav/main/10026-removebg-preview.png" width="160" />
 </p>
 
 <p align="center">
