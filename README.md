@@ -80,7 +80,7 @@ I’m available for:
 ## 📫 Contact Me
 - 📧 Email: keshav30072005@gmail.com
 - 💼 LinkedIn: *(add later)*
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: https://keshavsharma-30.github.io/my-portfolio/
 
 ---
 
